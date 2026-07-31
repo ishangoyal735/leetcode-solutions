@@ -23,7 +23,7 @@ public:
                 break;
             }
         }
-        if(!iscycle)
+        if(iscycle==false)
         {
          return NULL;
         }
