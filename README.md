@@ -25,11 +25,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ishangoyal735/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ishangoyal735/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/ishangoyal735/leetcode-solutions/tree/master/0169-majority-element) |
 ## Array
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ishangoyal735/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/ishangoyal735/leetcode-solutions/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/ishangoyal735/leetcode-solutions/tree/master/0169-majority-element) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -38,8 +40,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ishangoyal735/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/ishangoyal735/leetcode-solutions/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ishangoyal735/leetcode-solutions/tree/master/0053-maximum-subarray) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ishangoyal735/leetcode-solutions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ishangoyal735/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
