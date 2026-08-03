@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/ishangoyal735/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/ishangoyal735/leetcode-solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ishangoyal735/leetcode-solutions/tree/master/0169-majority-element) |
+| [0704-binary-search](https://github.com/ishangoyal735/leetcode-solutions/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -53,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ishangoyal735/leetcode-solutions/tree/master/0169-majority-element) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/ishangoyal735/leetcode-solutions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
