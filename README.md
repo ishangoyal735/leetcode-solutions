@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ishangoyal735/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/ishangoyal735/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/ishangoyal735/leetcode-solutions/tree/master/0704-binary-search) |
+| [1929-concatenation-of-array](https://github.com/ishangoyal735/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -69,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/ishangoyal735/leetcode-solutions/tree/master/0189-rotate-array) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/ishangoyal735/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
