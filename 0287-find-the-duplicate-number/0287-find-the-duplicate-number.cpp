@@ -1,7 +1,6 @@
 class Solution {
 public:
     int findDuplicate(vector<int>& nums) {
-        vector <int> ans;
         unordered_set<int> s;
         int a;
         int n = nums.size();
