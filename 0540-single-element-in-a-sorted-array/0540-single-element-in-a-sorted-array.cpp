@@ -11,9 +11,9 @@ public:
         while(st<=end)
         {
             mid = st + (end-st)/2;
-            if(mid == 0 &&  A[mid] != A[mid+1])
+            if(mid == 0 &&  A[0] != A[1])
                 return A[mid];
-            if(mid == n-1 &&  A[mid] != A[mid-1])
+            if(mid == n-1 &&  A[n-1] != A[n-2])
                 return A[mid];
                    
             if(A[mid-1]!=A[mid] && A[mid]!=A[mid+1])
