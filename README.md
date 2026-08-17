@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/ishangoyal735/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/ishangoyal735/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/ishangoyal735/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0344-reverse-string](https://github.com/ishangoyal735/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/ishangoyal735/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/ishangoyal735/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
@@ -134,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ishangoyal735/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/ishangoyal735/leetcode-solutions/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
